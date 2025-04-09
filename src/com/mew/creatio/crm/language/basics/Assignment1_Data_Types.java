@@ -85,15 +85,7 @@ public class Assignment1_Data_Types {
        double distance = 200.5;
        System.out.println("20. Distance between two cities:" + distance);
 	   
-	   
-	   
-	   
-	   /*
-		3. Person's phone number: "123-456-7890"
-		4. Amount of money in a customer's bank account: 1000.50
-		5. Person's email address: "john.doe@example.com"
-		6. Coordinates of a location (latitude, longitude): 37.7749, -122.4194
-*/
+	   /**** Completed Assignment 1 ****/
 	}
 
 }
